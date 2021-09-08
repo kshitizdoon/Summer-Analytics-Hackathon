@@ -5,14 +5,13 @@ This challenge is the capstone project of the Summer Analytics, a primer course 
 Let's take a case where an advertiser on the platform (DeltaX) would like to estimate the performance of their campaign in the future. Imagine it is the first day of March and you are given the past performance data of ads between 1st August to 28th Feb. You are now tasked to predict an ad's future performance (revenue) between March 1st and March 15th.
 
 # Data Description
-Given data is the ad performance for the dates between 1st August 2020 and 28th Feb 2021. It contains various columns whose description is as follows
-date: the date on which the ad was made live
-campaign: campaign number
-adgroup: adgroup number
-ad: ad number
-impressions - Number of time the ad was shown
-clicks - Number of time the ad clicked shown
-cost - Amount spent to show ad
-conversions - Number of transactions received
-revenue: revenue generated from the ad
-This repo contains my work on Hackathon conducted by C&A Club, IIT Guwahati 
+Given data is the ad performance for the dates between 1st August 2020 and 28th Feb 2021. It contains various columns whose description is as follows  
+date: the date on which the ad was made live  
+campaign: campaign number  
+adgroup: adgroup number  
+ad: ad number  
+impressions - Number of time the ad was shown  
+clicks - Number of time the ad clicked shown  
+cost - Amount spent to show ad  
+conversions - Number of transactions received  
+revenue: revenue generated from the ad  
