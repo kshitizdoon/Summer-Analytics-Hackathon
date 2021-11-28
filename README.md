@@ -16,10 +16,5 @@ Given data is the ad performance for the dates between 1st August 2020 and 28th 
 > 7. cost: Amount spent to show ad    
 > 8. conversions: Number of transactions received    
 > 9. revenue: revenue generated from the ad  
-## Results
-<img width="916" alt="image" src="https://user-images.githubusercontent.com/80268413/142664882-aac959f0-5e57-4a83-aded-e5bd369bcd6e.png">
-Ranked 16th on the private leaderboard among 600+ participants
-
->
-# 
+ 
 Click [here](https://dphi.tech/challenges/summer-analytics-capstone-project-by-ca-club-iit-guwahati/135/overview/about) for more details about the hackathon.
